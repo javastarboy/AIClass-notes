@@ -1,0 +1,5 @@
+{'loss': 0.2699, 'learning_rate': 0.0003, 'epoch': 1.0}
+{'loss': 0.273, 'learning_rate': 0.00025606601717798207, 'epoch': 2.0}
+{'loss': 0.2383, 'learning_rate': 0.00015, 'epoch': 3.0}
+{'loss': 0.1693, 'learning_rate': 4.3933982822017876e-05, 'epoch': 4.0}
+{'loss': 0.1222, 'learning_rate': 0.0, 'epoch': 5.0}
