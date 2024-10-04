@@ -17,7 +17,7 @@ text-embedding-3-ada-002
 '''
 response = client.embeddings.create(
   model="text-embedding-3-small",
-  input="我是大聪明...",
+  input="我是AGI舰长...",
   encoding_format="float"
 )
 
